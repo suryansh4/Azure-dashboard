@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from "react";
 import { Dropdown } from "semantic-ui-react";
 import { Link } from 'react-router-dom';
@@ -281,3 +282,6 @@ const Sidebar = () => {
 };
 
 export default Sidebar;
+=======
+
+>>>>>>> main
